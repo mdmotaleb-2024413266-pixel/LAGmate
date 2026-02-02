@@ -4,3 +4,4 @@ langchain-groq
 edge-tts
 asyncio
 gunicorn
+nest_asyncio  
